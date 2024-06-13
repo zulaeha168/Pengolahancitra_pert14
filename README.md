@@ -1,4 +1,16 @@
 # Pengolahancitra_pert14
+Nama : Zulaeha
+
+NIM : 312210575
+
+Kelas : TI.22.A5
+
+Mata Kuliah : Pengolahan citra
+
+## Merekonstruksi gambar berikut:
+
+![image](https://github.com/zulaeha168/Pengolahancitra_pert14/assets/130324650/22dad2bc-d683-419b-9fb9-b0f202d7ee27)
+
 
 ## Outputnya
 
