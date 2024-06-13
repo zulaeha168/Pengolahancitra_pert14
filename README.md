@@ -1,6 +1,7 @@
 # Pengolahancitra_pert14
 
 ## Outputnya
-![Screenshot (88)](https://github.com/zulaeha168/Pengolahancitra_pert14/assets/130324650/fd42bee9-6d3e-421b-80c2-a9362934438b)
 
-![Screenshot (89)](https://github.com/zulaeha168/Pengolahancitra_pert14/assets/130324650/370d2f08-54b3-4d12-9c80-2d231074df75)
+![Screenshot (90)](https://github.com/zulaeha168/Pengolahancitra_pert14/assets/130324650/819701c0-cd8d-4ec2-b726-f766b6a9a2e2)
+
+![Screenshot (91)](https://github.com/zulaeha168/Pengolahancitra_pert14/assets/130324650/64ba2bd0-88e0-4786-a90f-87f2fcfba2bb)
